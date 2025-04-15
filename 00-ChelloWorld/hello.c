@@ -11,6 +11,6 @@ int main(void)
     }
     fprintf(archivo, "Hola Mateo Iglesias!");
     fclose(archivo);
-    printf("Archivo creado con exito.\n");
+    printf("Hola Mateo Iglesias!");
     return 0;
 }
