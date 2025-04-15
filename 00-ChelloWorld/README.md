@@ -3,8 +3,8 @@ Objetivo
 Configurar el entorno de desarrollo en C y verificar su funcionamiento con un programa que imprime un mensaje simple en pantalla. Este TP también sirve para familiarizarse con GitHub y el flujo de trabajo para los próximos trabajos prácticos.
 
 Compilador utilizado
-gcc (GCC) 13.2.0
-Copyright (C) 2023 Free Software Foundation, Inc.
+gcc.exe (Rev3, Built by MSYS2 project) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
 
 La versión del compilador se obtuvo usando el comando gcc --version.
 
