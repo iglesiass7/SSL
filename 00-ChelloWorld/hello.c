@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+
 int main(void)
 {
+<<<<<<< HEAD
     FILE *archivo;
     archivo = fopen("output.txt", "w");
     if (archivo == NULL) {
@@ -11,6 +11,8 @@ int main(void)
     }
     fprintf(archivo, "Hola Mateo Iglesias!");
     fclose(archivo);
+=======
+>>>>>>> d637e8a (Corrijo hello.c para escribir en stdout con printf)
     printf("Hola Mateo Iglesias!");
     return 0;
 }
